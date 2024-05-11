@@ -1,5 +1,11 @@
 
 ## 2023
+- **Title:** Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_1)
+    - *Approach:* ![Approach](https://img.shields.io/badge/Dynamic-green) 
+    - *Modality:* ![Modality](https://img.shields.io/badge/histological-yellow)
+    - *Settings:* ![Settings](https://img.shields.io/badge/Class-blue) 
+    - *Task:* ![Task](https://img.shields.io/badge/Classification-red)
+    --------
 - **Title:** What is Wrong with Continual Learning in Medical Image Segmentation? [[paper]](https://arxiv.org/abs/2010.11008)
     - *Approach:* ![Approach](https://img.shields.io/badge/Dynamic-green) 
     - *Modality:* ![Modality](https://img.shields.io/badge/MRI-yellow) ![Modality](https://img.shields.io/badge/CT-yellow) 
