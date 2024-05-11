@@ -1,6 +1,6 @@
 
 ## 2023
-- **Title:** Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_1)
+- **Title:** Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_1) [[code]](https://github.com/nourhanb/Continual-GEN)
     - *Approach:* ![Approach](https://img.shields.io/badge/Dynamic-green) 
     - *Modality:* ![Modality](https://img.shields.io/badge/histological-yellow)
     - *Settings:* ![Settings](https://img.shields.io/badge/Class-blue) 
