@@ -1,4 +1,4 @@
-# Continunal Learning in Medical - A Survey
+# Continual Learning in Medical - A Survey
 
 This is the repository of Continual Learning in Medical - A Survey, a systematic survey of Continual Learning studies in Medical Setting. For details, please refer to:
 
