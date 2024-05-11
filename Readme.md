@@ -1,6 +1,8 @@
 # Continunal Learning in Medical - A Survey
 
-This is the repository of Vision Language Models for Vision Tasks: a Survey, a systematic survey of VLM studies in various visual recognition tasks including image classification, object detection, semantic segmentation, etc. For details, please refer to:
+This is the repository of Continual Learning in Medical - A Survey, a systematic survey of Continual Learning studies in Medical Setting. For details, please refer to:
+
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](?)
 
 [Mohammad Areeb Qazi](https://scholar.google.com/citations?user=KeyK8FQAAAAJ&hl=en),
 [Anees Ur Rehman Hashmi](https://github.com/aneesurhashmi),
@@ -9,7 +11,6 @@ This is the repository of Vision Language Models for Vision Tasks: a Survey, a s
 [Numan Saeed](https://scholar.google.ae/citations?user=VMPEU20AAAAJ&hl=en),
 [Mohammad Yaqub](https://scholar.google.com/citations?user=9dfn5GkAAAAJ)
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2404.14099)
 
 ## 2023
 - **Title:** Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_1) [[code]](https://github.com/nourhanb/Continual-GEN)
